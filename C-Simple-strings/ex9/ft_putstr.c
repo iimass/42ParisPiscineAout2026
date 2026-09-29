@@ -3,10 +3,10 @@
 /*							  :::	   ::::::::   */
 /*   ft_putstr.c                                        :+:      :+:    :+:   */
 /*						      +:+ +:+	      +:+     */
-/*   By: moahamad <moahamad@learner.42.tech>	    +#+  +:+	   +#+	      */
+/*   By: samhammo <samhammo@learner.42.tech>	    +#+  +:+	   +#+	      */
 /*						  +#+#+#+#+#+	+#+	      */
-/*   Created: 2026/08/10 10:55:21 by moahamad	       #+#    #+#	      */
-/*   Updated: 2026/08/10 14:25:11 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/10 10:55:21 by samhammo	       #+#    #+#	      */
+/*   Updated: 2026/08/10 14:25:11 by samhammo         ###   ########.fr       */
 /*									      */
 /* ************************************************************************** */
 #include <unistd.h>

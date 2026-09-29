@@ -3,10 +3,10 @@
 /*							  :::	   ::::::::   */
 /*   ft_str_is_lowercase.c                              :+:      :+:    :+:   */
 /*						      +:+ +:+	      +:+     */
-/*   By: moahamad <moahamad@learner.42.tech>	    +#+  +:+	   +#+	      */
+/*   By: samhammo <samhammo@learner.42.tech>	    +#+  +:+	   +#+	      */
 /*						  +#+#+#+#+#+	+#+	      */
-/*   Created: 2026/08/09 17:05:36 by moahamad	       #+#    #+#	      */
-/*   Updated: 2026/08/10 15:00:49 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/09 17:05:36 by samhammo	       #+#    #+#	      */
+/*   Updated: 2026/08/10 15:00:49 by samhammo         ###   ########.fr       */
 /*									      */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*							  :::	   ::::::::   */
 /*   ft_show_tab.c                                      :+:      :+:    :+:   */
 /*						      +:+ +:+	      +:+     */
-/*   By: moahamad <moahamad@learner.42.tech>	    +#+  +:+	   +#+	      */
+/*   By: samhammo <samhammo@learner.42.tech>	    +#+  +:+	   +#+	      */
 /*						  +#+#+#+#+#+	+#+	      */
-/*   Created: 2026/08/25 20:42:17 by moahamad	       #+#    #+#	      */
-/*   Updated: 2026/08/26 00:08:51 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/25 20:42:17 by samhammo	       #+#    #+#	      */
+/*   Updated: 2026/08/26 00:08:51 by samhammo         ###   ########.fr       */
 /*									      */
 /* ************************************************************************** */
 #include <unistd.h>

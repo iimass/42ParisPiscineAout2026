@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_fibonacci.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: moahamad <moahamad@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: samhammo <samhammo@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/08/06 21:20:31 by moahamad          #+#    #+#             */
-/*   Updated: 2026/08/07 11:22:20 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/06 21:20:31 by samhammo          #+#    #+#             */
+/*   Updated: 2026/08/07 11:22:20 by samhammo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <stdio.h>

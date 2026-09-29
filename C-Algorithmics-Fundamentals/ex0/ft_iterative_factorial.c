@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_iterative_factorial.c                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: moahamad <moahamad@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: samhammo <samhammo@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/08/06 16:16:50 by moahamad          #+#    #+#             */
-/*   Updated: 2026/08/06 16:48:38 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/06 16:16:50 by samhammo          #+#    #+#             */
+/*   Updated: 2026/08/06 16:48:38 by samhammo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <stdio.h>

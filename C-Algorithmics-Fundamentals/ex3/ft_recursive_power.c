@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_recursive_power.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: moahamad <moahamad@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: samhammo <samhammo@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/08/06 18:43:18 by moahamad          #+#    #+#             */
-/*   Updated: 2026/08/06 22:06:50 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/06 18:43:18 by samhammo          #+#    #+#             */
+/*   Updated: 2026/08/06 22:06:50 by samhammo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

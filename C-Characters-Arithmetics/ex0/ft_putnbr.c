@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: moahamad <moahamad@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: samhammo <samhammo@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/08/06 09:41:23 by moahamad          #+#    #+#             */
-/*   Updated: 2026/08/06 10:22:00 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/06 09:41:23 by samhammo          #+#    #+#             */
+/*   Updated: 2026/08/06 10:22:00 by samhammo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <unistd.h>

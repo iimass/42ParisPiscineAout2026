@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_comb.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: moahamad <moahamad@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: samhammo <samhammo@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/08/06 10:27:46 by moahamad          #+#    #+#             */
-/*   Updated: 2026/08/06 17:25:01 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/06 10:27:46 by samhammo          #+#    #+#             */
+/*   Updated: 2026/08/06 17:25:01 by samhammo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <unistd.h>

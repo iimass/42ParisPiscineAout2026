@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strs_to_tab.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: moahamad <moahamad@student.42.fr>          +#+  +:+       +#+        */
+/*   By: samhammo <samhammo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/08/25 17:14:44 by moahamad          #+#    #+#             */
-/*   Updated: 2026/08/26 12:40:11 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/25 17:14:44 by samhammo          #+#    #+#             */
+/*   Updated: 2026/08/26 12:40:11 by samhammo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <unistd.h>

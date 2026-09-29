@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_recursive_factorial.c                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: moahamad <moahamad@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: samhammo <samhammo@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/08/06 17:13:15 by moahamad          #+#    #+#             */
-/*   Updated: 2026/08/07 12:25:52 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/06 17:13:15 by samhammo          #+#    #+#             */
+/*   Updated: 2026/08/07 12:25:52 by samhammo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

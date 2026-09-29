@@ -3,10 +3,10 @@
 /*							  :::	   ::::::::   */
 /*   ft_sort_params.c                                   :+:      :+:    :+:   */
 /*						      +:+ +:+	      +:+     */
-/*   By: moahamad <moahamad@learner.42.tech>	    +#+  +:+	   +#+	      */
+/*   By: samhammo <samhammo@learner.42.tech>	    +#+  +:+	   +#+	      */
 /*						  +#+#+#+#+#+	+#+	      */
-/*   Created: 2026/08/22 22:20:18 by moahamad	       #+#    #+#	      */
-/*   Updated: 2026/08/22 22:25:00 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/22 22:20:18 by samhammo	       #+#    #+#	      */
+/*   Updated: 2026/08/22 22:25:00 by samhammo         ###   ########.fr       */
 /*									      */
 /* ************************************************************************** */
 #include <unistd.h>

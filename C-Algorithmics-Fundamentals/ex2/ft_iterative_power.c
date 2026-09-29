@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_iterative_power.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: moahamad <moahamad@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: samhammo <samhammo@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/08/06 17:27:11 by moahamad          #+#    #+#             */
-/*   Updated: 2026/08/06 18:42:04 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/06 17:27:11 by samhammo          #+#    #+#             */
+/*   Updated: 2026/08/06 18:42:04 by samhammo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

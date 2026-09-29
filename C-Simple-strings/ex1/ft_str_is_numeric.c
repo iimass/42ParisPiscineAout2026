@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_str_is_numeric.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: moahamad <moahamad@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: samhammo <samhammo@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/08/09 16:53:09 by moahamad          #+#    #+#             */
-/*   Updated: 2026/08/09 17:04:30 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/09 16:53:09 by samhammo          #+#    #+#             */
+/*   Updated: 2026/08/09 17:04:30 by samhammo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

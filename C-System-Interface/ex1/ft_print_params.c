@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_params.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: moahamad <moahamad@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: samhammo <samhammo@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/08/22 22:20:03 by moahamad          #+#    #+#             */
-/*   Updated: 2026/08/22 22:20:05 by moahamad         ###   ########.fr       */
+/*   Created: 2026/08/22 22:20:03 by samhammo          #+#    #+#             */
+/*   Updated: 2026/08/22 22:20:05 by samhammo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
